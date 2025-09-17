@@ -16,7 +16,7 @@ Extensive research into AI algorithms is essential, but in small-scale studies i
 This raises the question: which criteria determine whether differences should be made between individuals or groups at all? It is impossible to endlessly differentiate between groups of people, however, at the very least, the foundation of a “healthy” dataset lies in good representation of age, sex, and ethnicity. When researching psychosocial conditions, it may be logical to include proportional data from different subcultures or socioeconomic groups.
 
 ### Sensitivity
-A drawback of a dataset that integrates all subgroups is that diagnostics for certain subgroups may become less sensitive.For example, if a dataset is trained on both men and women, certain abnormalities may be detected less accurately in women than if the dataset had been trained solely on female data. Therefore, if, for specific reasons, only a particular subgroup is included in the dataset, this must be explicitly described in the research methodology. When the algorithm is applied in practice, its use should be limited to that specific subgroup.
+A drawback of a dataset that integrates all subgroups is that diagnostics for certain subgroups may become less sensitive. For example, if a dataset is trained on both men and women, certain abnormalities may be detected less accurately in women than if the dataset had been trained solely on female data. Therefore, if, for specific reasons, only a particular subgroup is included in the dataset, this must be explicitly described in the research methodology. When the algorithm is applied in practice, its use should be limited to that specific subgroup.
 
 
 ### Conclusion
