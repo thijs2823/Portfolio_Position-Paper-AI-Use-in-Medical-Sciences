@@ -35,5 +35,5 @@ Artificial Intelligence will increasingly be applied in medical sciences. It is 
 5. Leslie, W. D. (2012). Ethnic Differences in Bone Mass—Clinical Implications. The Journal of Clinical Endocrinology & Metabolism, 97(12), 4329–4340. https://doi.org/10.1210/jc.2012-2863
 
 ### About
-Date of writing: 12-09-2023
+Date of writing: 12-09-2023<p>
 Course: Scientific Integrity
