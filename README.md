@@ -36,3 +36,4 @@ Artificial Intelligence will increasingly be applied in medical sciences. It is 
 
 ### About
 Date of writing: 12-09-2023
+Course: Scientific Integrity
